@@ -1,7 +1,7 @@
 # MyContactsApp
 Here's an explanation of the components used in the code and the libraries/plugins utilized:
 
-1.Components:
+<b>1.Components:</b>
 
 <li>View: A container component that provides a flexible container for other components.</li>
 <li>Text: A component used for displaying text.</li>
@@ -10,7 +10,8 @@ Here's an explanation of the components used in the code and the libraries/plugi
 <li>TouchableOpacity: A wrapper component that allows handling touch events.</li>
 <li>Modal: A component that provides a modal view with animation support.</li>
 
-2.Libraries and Plugins:
+
+<b>2.Libraries and Plugins:</b>
 
 <li>react: The core library for building user interfaces in React.</li>
 <li>react-native: The library that enables building native mobile apps using React.</li>
